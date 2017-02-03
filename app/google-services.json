@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "830803511806",
+    "firebase_url": "https://teto-de-verde.firebaseio.com",
+    "project_id": "teto-de-verde",
+    "storage_bucket": "teto-de-verde.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830803511806:android:f78c7632f0e203e1",
+        "android_client_info": {
+          "package_name": "br.com.dev_sirox.tetodeverde"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "830803511806-ubfckj09udcq5efrnrmm958qlbrvjv47.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbxlJMkFV0ZXFLol0pxan8rbjCC6kFKLE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "830803511806-ubfckj09udcq5efrnrmm958qlbrvjv47.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

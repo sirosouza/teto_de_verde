@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_monitor"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Manutenção" />
+        <item
+            android:id="@+id/nav_agenda"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Agendar Visita" />
+        <item
+            android:id="@+id/nav_info"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Informações" />
+        <item
+            android:id="@+id/nav_contato"
+            android:icon="@android:drawable/ic_dialog_email"
+            android:title="Contato" />
+        <item
+            android:id="@+id/nav_mp_socil"
+            android:icon="@android:drawable/ic_dialog_email"
+            android:title="Monitorar Projeto Social" />
+        <item
+            android:id="@+id/nav_mapasocial_feiras"
+            android:icon="@android:drawable/ic_dialog_email"
+            android:title="Mapas Sociais/Feira" />
+    </group>
+
+</menu>

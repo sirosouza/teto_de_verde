@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="produtos">
+        <item>Alface</item>
+        <item>Arruda</item>
+        <item>Hortelã</item>
+        <item>Orégano</item>
+        <item>Salsinha</item>
+    </string-array>
+
+    <string-array name="perfis">
+        <item>ADMINISTRADOR</item>
+        <item>CORPORATIVO / CONDOMÍNIOS</item>
+        <item>COMUNIDADE</item>
+        <item>IMIGRANTE - MAKERS</item>
+        <item>PUBLICO</item>
+    </string-array>
+</resources>
